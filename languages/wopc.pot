@@ -1,0 +1,335 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: WooCommerce - Order Product Codes\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-07-11 06:28+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Timotei Bondas <bondastimotei@gmail.com>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+msgctxt "Post Type Campaign General Name"
+msgid "Campaigns"
+msgstr ""
+
+msgctxt "Post Type Campaign Singular Name"
+msgid "Campaign"
+msgstr ""
+
+msgctxt "Post Type Campaign Menu Name"
+msgid "Campaigns"
+msgstr ""
+
+msgctxt "Post Type Campaign Admin Bar"
+msgid "Campaigns"
+msgstr ""
+
+msgctxt "Post Type Order Code General Name"
+msgid "Order Code"
+msgstr ""
+
+msgctxt "Post Type Order Code Singular Name"
+msgid "Order Code"
+msgstr ""
+
+msgctxt "Post Type Order Code Menu Name"
+msgid "Order Codes"
+msgstr ""
+
+msgctxt "Post Type Order Code Admin Bar"
+msgid "Order Codes"
+msgstr ""
+
+msgid "Remove product: %s"
+msgstr ""
+
+msgid "Applied products"
+msgstr ""
+
+msgid "How many codes to send on order"
+msgstr ""
+
+msgid "Fixed number of codes per order"
+msgstr ""
+
+msgid "Variable number of codes per order"
+msgstr ""
+
+msgid "1 Code every x value from order total"
+msgstr ""
+
+msgid "Code Pattern"
+msgstr ""
+
+msgid "Preview"
+msgstr ""
+
+msgid "Example: [a:1-3][C:YOUR FIXED CHARS][n:4][lL:4][n:1-3]<br /><br />Usage: Inside you need structure like: <strong>[type:length]</strong><br /><br />Type can be:<br />l: lower case letters<br />L: upper case letters<br />c: special characters<br />n: numbers<br />a: all above<br />C: your choosen string<br /><br /><strong>Type identifiers</strong> can be combined. Example: <strong>nL</strong><br /><br /><strong>Length</strong> can be <strong>fixed number</strong> or choose <strong>random from a range</strong>. Example: <strong>2</strong> OR <strong>9</strong> OR <strong>1-10</strong>"
+msgstr ""
+
+msgid "Email From"
+msgstr ""
+
+msgid "Email Name"
+msgstr ""
+
+msgid "Email Subject"
+msgstr ""
+
+msgid "Email Message"
+msgstr ""
+
+msgid "Email message that will be sent foreach order.<br />HTML is allowed.<br /><br />Use:<br /><strong>{{site_name}}</strong> -  insert site name<br /><strong>{{site_email}}</strong> -  insert site email address<br /><strong>{{codes}}</strong> -  insert code(s) list<br /><strong>{{order_id}}</strong> - order id<br /><strong>{{order_date}}</strong> - date of order<br /><strong>{{campaign_name}}</strong> - campaign name"
+msgstr ""
+
+msgid "Campaign"
+msgstr ""
+
+msgid "Campaigns"
+msgstr ""
+
+msgid "Archive Campaigns"
+msgstr ""
+
+msgid "Campaign Attributes"
+msgstr ""
+
+msgid "Parent Campaign:"
+msgstr ""
+
+msgid "All Campaigns"
+msgstr ""
+
+msgid "Add New Campaign"
+msgstr ""
+
+msgid "Add New"
+msgstr ""
+
+msgid "New Campaign"
+msgstr ""
+
+msgid "Edit Campaign"
+msgstr ""
+
+msgid "Update Campaigns"
+msgstr ""
+
+msgid "View all Campaigns"
+msgstr ""
+
+msgid "View Campaigns"
+msgstr ""
+
+msgid "Search Campaigns"
+msgstr ""
+
+msgid "Not found"
+msgstr ""
+
+msgid "Not found in Trash"
+msgstr ""
+
+msgid "Featured Image"
+msgstr ""
+
+msgid "Set featured image"
+msgstr ""
+
+msgid "Remove featured image"
+msgstr ""
+
+msgid "Use as featured image"
+msgstr ""
+
+msgid "Insert into Campaigns"
+msgstr ""
+
+msgid "Uploaded to this Code"
+msgstr ""
+
+msgid "Campaigns list"
+msgstr ""
+
+msgid "Campaigns list navigation"
+msgstr ""
+
+msgid "Filter Campaigns list"
+msgstr ""
+
+msgid "Post type for WOPC Campaigns"
+msgstr ""
+
+msgid "Campaign Settings"
+msgstr ""
+
+msgid "Order Codes"
+msgstr ""
+
+msgid "Archive Order Codes"
+msgstr ""
+
+msgid "Codes Attributes"
+msgstr ""
+
+msgid "All Codes"
+msgstr ""
+
+msgid "Add New Code"
+msgstr ""
+
+msgid "Add New"
+msgstr ""
+
+msgid "New Code"
+msgstr ""
+
+msgid "Edit Code"
+msgstr ""
+
+msgid "Update Codes"
+msgstr ""
+
+msgid "View all Codes"
+msgstr ""
+
+msgid "View Codes"
+msgstr ""
+
+msgid "Search Codes"
+msgstr ""
+
+msgid "Not found"
+msgstr ""
+
+msgid "Insert into Codes"
+msgstr ""
+
+msgid "Uploaded to this Code"
+msgstr ""
+
+msgid "Codes list"
+msgstr ""
+
+msgid "Codes list navigation"
+msgstr ""
+
+msgid "Filter Codes list"
+msgstr ""
+
+msgid "Post type for WOPC Order codes"
+msgstr ""
+
+msgid "Setting value %s does not exist."
+msgstr ""
+
+msgid "Product Codes"
+msgstr ""
+
+msgid "Product Codes settings"
+msgstr ""
+
+msgid "Settings Saved"
+msgstr ""
+
+msgid "General Settings"
+msgstr ""
+
+msgid "Module functionality enabled"
+msgstr ""
+
+msgid "Send code on order status"
+msgstr ""
+
+msgid "Select multiple status by holding CTRL. <strong>This will be applied for future orders.</strong>"
+msgstr ""
+
+msgid "Cancel code on order status"
+msgstr ""
+
+msgid "Enable code resent"
+msgstr ""
+
+msgid "After order status is set to a Cancel state, enable codes resend."
+msgstr ""
+
+msgid "Disable admin notification"
+msgstr ""
+
+msgid "On uninstall remove all data"
+msgstr ""
+
+msgid "On uninstall remove all Codes, Orders, Campaigns data created by module. <strong>THIS IS IRREVERSIBLE. USE IT WITH CARE.</strong>"
+msgstr ""
+
+msgid "Save Settings"
+msgstr ""
+
+msgid "Pattern [%s] has incorrect type."
+msgstr ""
+
+msgid "Pattern [%s] has incorrect length value."
+msgstr ""
+
+msgid "Pattern [%s] has invalid characters in declaration."
+msgstr ""
+
+msgid "Pattern %s has incorrect structure. Pattern must end with ]."
+msgstr ""
+
+msgid "Incorrect number of [] charcaters in pattern %s."
+msgstr ""
+
+msgid "Pattern is empty."
+msgstr ""
+
+msgid "Pattern is invalid type."
+msgstr ""
+
+msgid "You are not authorized to access this link."
+msgstr ""
+
+msgid "Configure"
+msgstr ""
+
+msgid "Please activate Woocommerce"
+msgstr ""
+
+msgid "Email could not be sent from server."
+msgstr ""
+
+msgid "Your feedback is important! Please leave us your feeling about the module."
+msgstr ""
+
+msgid "Feedback sent. Thank you!"
+msgstr ""
+
+msgid "Feedback could not be sent. Email is not working."
+msgstr ""
+
+msgid "Your email"
+msgstr ""
+
+msgid "Your name"
+msgstr ""
+
+msgid "Note the plugin experience(1-10)"
+msgstr ""
+
+msgid "Your message"
+msgstr ""
+
+msgid "Leave us a message about what can be improved or added"
+msgstr ""
+
+msgid "Send feedback"
+msgstr ""
+
+msgid "Your data will not be processed in any form."
+msgstr ""
